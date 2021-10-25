@@ -1,0 +1,3 @@
+if(typeof(sina)!="object"){var sina={}}
+sina.$=function(objId){if(!objId){throw new Error("sina.$(String objId)参数必须")}
+if(document.getElementById){return eval('document.getElementById("'+objId+'")')}else if(document.layers){return eval("document.layers['"+objId+"']")}else{return eval('document.all.'+objId)}}

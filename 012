@@ -1,0 +1,6 @@
+}
+			if(list[i]["oParam"]) {
+				for(var key in list[i]["oParam"]) {
+					so.addParam(key, list[i]["oParam"][key]);
+				}
+			}

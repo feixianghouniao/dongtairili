@@ -1,0 +1,4 @@
+"http://www.1t2t.com/,http://www.1t2t.com/,http://www.1t2t.com/,http://www.1t2t.com/,http://www.1t2t.com/,http://www.1t2t.com/,http://www.1t2t.com/,http://www.1t2t.com/,http://www.1t2t.com/", itemOverTime: 100, viewTime: 5000
+	}, {scale: "noscale", allowScriptAccess: "always", wmode: "transparent"});
+	SwfView.Init();
+	}

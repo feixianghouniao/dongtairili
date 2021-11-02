@@ -1,0 +1,10 @@
+			this.swfList[this.swfList.length] = {
+				sURL: sURL,
+				sID: sID,
+				sPID: sPID,
+				nWidth: nWidth,
+				nHeight: nHeight,
+				nVersion: nVersion,
+				sBGColor: sBGColor,
+				oVar: oVar,
+				oParam: oParam

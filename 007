@@ -1,0 +1,3 @@
+function loadFlashView() {
+	SwfView.Add("flash/index.swf", "fpv", "swfDIV", "660", "290", "8.0.0.0", "#000", {
+	bigPhotoList: 

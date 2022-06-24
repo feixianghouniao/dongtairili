@@ -1,0 +1,1 @@
+if(this.skipDetect||this.getAttribute('doExpressInstall')||this.installedVer.versionIsValid(this.getAttribute('version'))){var n=(typeof elementId=='string')?document.getElementById(elementId):elementId;n.innerHTML=this.getFlashHTML()}else{if(this.getAttribute('redirectUrl')!="")

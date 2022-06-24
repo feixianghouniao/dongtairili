@@ -1,0 +1,1 @@
+width="'+this.getAttribute('width')+'" height="'+this.getAttribute('height')+'"';flashNode+=' id="'+this.getAttribute('id')+'" name="'+this.getAttribute('id')+'" ';var params=this.getParams();for(var key in params){flashNode+=[key]+'="'+params[key]+'" '}var 

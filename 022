@@ -1,0 +1,1 @@
+{document.location.replace(this.getAttribute('redirectUrl'))}}}};sas.ued.FlashObjectUtil.getPlayerVersion=function(reqVer,xiInstall){var PlayerVersion=new sas.ued.PlayerVersion(0,0,0);if(navigator.plugins&&navigator.mimeTypes.length){var x=navigator.plugins["Shockwave Flash"];if(x&&x.description)
